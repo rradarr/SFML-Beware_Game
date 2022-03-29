@@ -3,4 +3,4 @@ University semester project for Computer Programming sem III. It's a 2D game tha
 
 #
 
-Details are avialable in the [Final Raport PDF](./Beware Final Raport - git version.pdf) which was created as the final artifact of the Computer Programming project.
+Details are avialable in the Final Raport PDF which was created as the final artifact of the Computer Programming project.
